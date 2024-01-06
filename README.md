@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akahs Ghosh</h1>
+<h1 align="center">Hi 👋, I'm Akash Ghosh</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://www.facebook.com/photo/?fbid=3277635545862147&set=a.1380676142224773" /> </p>
