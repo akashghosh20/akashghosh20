@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Ghosh</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Entrepreneur from Bangladesh</h3>
 
 <p align="left"> <img src="[https://www.facebook.com/photo/?fbid=3277635545862147&set=a.1380676142224773](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-illustration%2Fsoftware-engineer-2043023&psig=AOvVaw1I5jiIWqZB3qVfBSlVPTHl&ust=1704658486035000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKi1jfXJyYMDFQAAAAAdAAAAABAF)" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashghosh20" alt="akashghosh20" /></a> </p>
 
-- 🔭 I’m currently working on **Easy Study BD**
+- 🔭 I’m currently working on **SoftEngineLab (Co-CEO) and DiacareBD(Co-CEO)**
 
 - 📫 How to reach me **ag1229222@gmail.com**
 
